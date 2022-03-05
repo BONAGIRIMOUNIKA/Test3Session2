@@ -1,1 +1,28 @@
+#include <stdio.h>
+struct _fraction
+{
+int num,den;
+};
+typedef _fraction Fraction
+Fraction input_fraction()
 
+{
+fraction f;
+printf("enter one fractional (NUM DEN):\n");
+scanf(""%d%d",&f.num ,&f.den);
+return f;
+}
+
+Fraction Largest_fraction(Fraction f1, Fraction f2, Fraction f3)
+{
+folat
+}
+
+void output(Fraction f1, Fraction f2, Fractionf3,fraction largestn
+{
+printf("enter the smallest of %d%d,%d%d and %d%d is %d%d\n",f1.num,f1.den,f2.num,f2.den,f3.num,f3.den,smallest .num,smallest.den);
+}
+int main ()
+{
+fraction
+}
